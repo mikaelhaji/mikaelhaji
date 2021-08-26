@@ -25,8 +25,8 @@
 - 🧙‍♂️ Working Towards Becoming a ***BCI Wizard*** w/ a Full Depth of Knowledge in the Field (Neuroscience, Signal Processing, Classification)
 - 🚀 Working out Logistics of a [YouTube Channel](https://www.youtube.com/channel/UCfCHfzCBG0oU8Dl8uZ4Ug3A) ***Documenting my Lifelong Journey*** in the Neurotech Field
 - 📫 How to reach me: mikaelhaji@gmail.com;
-- 📝 [Major Events](https://mikaelhaji.com/major-events).
-- 🤖 [Projects](https://mikaelhaji.com/projects).
+- 📝 [Major Events This Year](https://mikaelhaji.com/major-events).
+- 🤖 [Brain Computer Interface Projects](https://mikaelhaji.com/projects).
 
 </br>
 
