@@ -1,7 +1,5 @@
 ### Hi there, I'm <a href="https://mikaelhaji.com" target="_blank">Mikael Haji</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
-
 ### 🧠 Brain-Computer Interface Developer
 
 I'm a 15/yo developer 🧑🏾‍💻 working out of Toronto 🍁 on a mission to solve impossible problems 🌅 for the world.
