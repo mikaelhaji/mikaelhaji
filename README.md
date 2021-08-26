@@ -9,7 +9,6 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 </br>
 
@@ -17,6 +16,9 @@
 ![Screen Shot 2021-08-26 at 2 53 05 AM](https://user-images.githubusercontent.com/68840767/130915385-884d9de2-2fc8-4332-af35-0079bcb7c97f.png)
 
   </br>
+  
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 ### **What I Am Up To:**
 
