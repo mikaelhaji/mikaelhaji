@@ -2,16 +2,17 @@
 
 ### 🧠 Brain-Computer Interface Developer
 
+
+15-year-old Brain-Computer Interface Developer 👨🏻‍💻 from Toronto 🇨🇦 on a lifelong mission to take control of our cognitive evolution 🧠 by building the tools 💻 necessary to read and write our neural code.
+
+
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mikaelhaji.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://instagram.com/gkassym/)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-
-
-
-15-year-old Brain-Computer Interface Developer 👨🏻‍💻 from Toronto 🇨🇦 on a lifelong mission to take control of our cognitive evolution 🧠 by building the tools 💻 necessary to read and write our neural code.
-
 
 ![Screen Shot 2021-08-26 at 2 53 05 AM](https://user-images.githubusercontent.com/68840767/130915385-884d9de2-2fc8-4332-af35-0079bcb7c97f.png)
 
