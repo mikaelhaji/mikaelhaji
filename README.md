@@ -2,9 +2,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-### 🧠 BCI Developer | Building the Tools Necessary To Read + Write our Neural Code
+### 🧠 Brain-Computer Interface Developer
 
 I'm a 15/yo developer 🧑🏾‍💻 working out of Toronto 🍁 on a mission to solve impossible problems 🌅 for the world.
+Building the Tools Necessary To Read + Write our Neural Code
+
 
 ![Screen Shot 2021-08-26 at 2 53 05 AM](https://user-images.githubusercontent.com/68840767/130915385-884d9de2-2fc8-4332-af35-0079bcb7c97f.png)
 
