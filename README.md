@@ -1,17 +1,19 @@
+### Hi there, I'm <a href="https://mikaelhaji.com" target="_blank">Mikael Haji</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
+### 🧠 BCI Developer | Building the Tools Necessary To Read + Write our Neural Code
+
+I'm a 15/yo developer 🧑🏾‍💻 working out of Toronto 🍁 on a mission to solve impossible problems 🌅 for the world.
 
 ![Screen Shot 2021-08-26 at 2 53 05 AM](https://user-images.githubusercontent.com/68840767/130915385-884d9de2-2fc8-4332-af35-0079bcb7c97f.png)
-
-
-### Hi there, I'm <a href="https://mikaelhaji.com" target="_blank">Mikael Haji</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mikaelhaji.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://instagram.com/gkassym/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
