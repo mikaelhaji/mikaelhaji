@@ -1,3 +1,8 @@
+![Screen Shot 2021-08-26 at 2 53 05 AM](https://user-images.githubusercontent.com/68840767/130915385-884d9de2-2fc8-4332-af35-0079bcb7c97f.png)
+
+
+</br>
+
 ### Hi there, I'm <a href="https://mikaelhaji.com" target="_blank">Mikael Haji</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### 🧠 Brain-Computer Interface Developer
@@ -18,7 +23,7 @@
 - 📝 [Major Events](https://mikaelhaji.com/major-events).
 - 🤖 [Projects](https://mikaelhaji.com/projects).
 
-</br></br>
+</br>
 
 ### **Statistics:**
 <p align="center"   >
@@ -39,4 +44,3 @@
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://instagram.com/gkassym/)
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
 
-![Screen Shot 2021-08-26 at 2 53 05 AM](https://user-images.githubusercontent.com/68840767/130915385-884d9de2-2fc8-4332-af35-0079bcb7c97f.png)
