@@ -5,7 +5,7 @@
 ### 🧠 Brain-Computer Interface Developer
 
 
-16-year-old Brain-Computer Interface Developer 👨🏻‍💻 from Toronto 🇨🇦 on a lifelong mission to take control of our cognitive evolution 🧠 by building the tools 💻  necessary to read and write our neural code.
+17-year-old Brain-Computer Interface Developer 👨🏻‍💻 from Toronto 🇨🇦 on a lifelong mission to take control of our cognitive evolution 🧠 by building the tools 💻  necessary to read and write our neural code.
 
 
 
@@ -20,10 +20,11 @@
 
 
 ### **What I Am Up To:**
+_Developing state-of-the-art ASICs to power the next generation of neurotechnology._
 
-- 👨🏻‍💻 I’m currently working on building a **Functional Ultrasound Imaging** Modality with the Potential to Make BCIs Go Mainstream
-- 🧙‍♂️ Working Towards Becoming a ***BCI Wizard*** w/ a Full Depth of Knowledge in the Field (Neuroscience, Signal Processing, Classification)
-- 🚀 Working out Logistics of a [YouTube Channel](https://www.youtube.com/channel/UCfCHfzCBG0oU8Dl8uZ4Ug3A) ***Documenting my Lifelong Journey*** in the Neurotech Field
+- 👨🏻‍💻 Learning **ASIC design + Fundamental Electrical Engineering**
+- 🧙‍♂️ Working Towards Becoming a ***BCI Wizard*** by Building Low-Grade + Low-Cost ICs and Hardware Projects
+- 🚀 Analyzing the status quo of **ASICs in Neurotech**
 - 📫 How to reach me: mikaelhaji@gmail.com;
 - 📝 [Major Events This Year](https://mikaelhaji.com/major-events).
 - 🤖 [Brain Computer Interface Projects](https://mikaelhaji.com/projects).
