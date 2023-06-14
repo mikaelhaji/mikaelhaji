@@ -31,17 +31,6 @@ _Developing state-of-the-art ASICs to power the next generation of neurotechnolo
 
 </br>
 
-### **Statistics:**
-<p align="center"   >
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelhaji&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaelhaji&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-
-</p>     
-
-  
-  
   
 ### **Socials:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-haji-a324b41b4/)
