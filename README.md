@@ -5,7 +5,7 @@
 ### 🧠 Brain-Computer Interface Developer
 
 
-17-year-old Brain-Computer Interface Developer 👨🏻‍💻 from Toronto 🇨🇦 on a lifelong mission to take control of our cognitive evolution 🧠 by building the tools 💻  necessary to read and write our neural code.
+18-year-old Brain-Computer Interface Developer 👨🏻‍💻 from Toronto 🇨🇦 on a lifelong mission to take control of our cognitive evolution 🧠 by building the tools 💻  necessary to read and write our neural code.
 
 
 
