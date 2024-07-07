@@ -2,7 +2,6 @@
 
 ### Hi there, I'm <a href="https://mikaelhaji.com" target="_blank">Mikael Haji</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 🧠 Brain-Computer Interface Developer
 
 
 18-year-old Brain-Computer Interface Developer 👨🏻‍💻 from Toronto 🇨🇦 on a lifelong mission to take control of our cognitive evolution 🧠 by building the tools 💻  necessary to read and write our neural code.
