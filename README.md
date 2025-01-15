@@ -15,7 +15,7 @@ i'm a 19yo ee who enjoys building things. currently obsessed with everything chi
 
 - learning EE from first principles @ the university of waterloo w/ the **$120K schulich leaders scholarship** [[press release]](https://uwaterloo.ca/news/waterloo-welcomes-2023-cohort-schulich-leaders)
 - building a **10μm chip fab** in my dorm room, aiming to create an open-source chip fab process for **<$10K and ~1,000 transistors** [[announcement]](https://x.com/mikaelhaji/status/1829658840931197364) [[memo]](https://tobiasgm.notion.site/The-Waterloo-Hacker-Fab-dce5e20b9f064137b4420ccc09823bc1)
-- designing ASICs--currently **burning a GPT-2 layer on silicon**, with past projects including a tpu-like systolic array & and a neuromorphic chip for neural implants—ISSCC pending [[gpt2 repo-__wip_]](https://github.com/mikaelhaji/gpt2.v) [[sys array repo]](https://github.com/mikaelhaji)
+- designing ASICs--currently **burning a GPT-2 layer on silicon**, with past projects including a tpu-like systolic array & and a neuromorphic chip for neural implants—ISSCC pending [[gpt2 repo WIP]](https://github.com/mikaelhaji/gpt2.v) [[sys array repo]](https://github.com/mikaelhaji)
 - pursuing scrappy hardware & software projects [[portfolio]](https://mikael-haji.notion.site/portfolio)
 
 
