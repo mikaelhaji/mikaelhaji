@@ -9,7 +9,7 @@
 
 
 ### 🚀 **who am i?**
-i'm an 19yo ee who enjoys building things. currently obsessed with everything chips.
+i'm a 19yo ee who enjoys building things. currently obsessed with everything chips.
 
 ### 👨‍💻 **currently, i am:**
 
